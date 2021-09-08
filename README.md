@@ -9,4 +9,4 @@ The methods used in this code are following:
 
 ## Results
 According to the results, XGBoost has better performance with minimium loss although it is not far better than gradient booster. 
-![Results](https://drive.google.com/file/d/1l51hR-1KeRjev7yv341vz4sBoE7Tv8BY/view?usp=sharing)
+![Results](https://github.com/mohsenSohrabi/Regression/blob/main/Results.png)
