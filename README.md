@@ -8,5 +8,5 @@ The methods used in this code are following:
 * [XGBoost Regression](https://xgboost.readthedocs.io/en/latest/)
 
 ## Results
-According to the results, XGBoost has better performance with minimium loss although it is not far better than gradient booster. In addition, it is obvious that KNN does a poor job on this dataset, and linear and SGD are very similar in their performance(linear is slightly better). 
+According to the results, XGBoost has the best performance with minimium loss although it is not far better than gradient booster. In addition, it is obvious that KNN does a poor job on this dataset, and linear and SGD are very similar in their performance(linear is slightly better). 
 ![Results](https://github.com/mohsenSohrabi/Regression/blob/main/Results.png)
