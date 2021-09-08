@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 
-def main(name):
+def main():
     # read data from data folder
     path = 'data/auto-mpg.data'
     header = ['mpg', 'cylinders', 'displacement', 'horsepower', 'weight',
@@ -41,15 +41,9 @@ def main(name):
     plt.show()
 
 
-    # plt.figure(figsize=(5, 4))
-    # plt.barh(loss_dict.values(), loss_dict.keys())
-    # plt.xticks(np.arange(len(loss_dict.keys())), tuple(loss_dict.keys()), rotation=60)
-    # plt.xlabel('Regression Methods')
-    # plt.ylabel('Losses')
-    # plt.show()
-
+   
 
 if __name__ == '__main__':
-    main('PyCharm')
+    main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
